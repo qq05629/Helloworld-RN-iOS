@@ -1,0 +1,1 @@
+详见博客 [iOS项目集成react native就这几步](http://www.jianshu.com/p/fd89220c6902)
